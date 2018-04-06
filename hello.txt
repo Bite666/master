@@ -1,2 +1,3 @@
 print("Hello, wor")
 print("Esho chto-to")
+print("And it too")
